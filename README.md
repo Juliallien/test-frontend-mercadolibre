@@ -1,4 +1,4 @@
-# ![mercado libre](https://http2.mlstatic.com/frontend-assets/ui-navigation/5.6.1/mercadolibre/logo__large_plus.png) Challenge Frontend Mercado Libre by Julián Andrés Isaza
+# ![mercado libre](https://http2.mlstatic.com/frontend-assets/ui-navigation/5.6.1/mercadolibre/logo__large_plus.png) Challenge Frontend MELI by Julián Andrés Isaza
 
 Repositorio desarrollado para challenge [Test Práctico - Frontend](https://www.dropbox.com/sh/nbq7zvtqd2gb9ab/AABIy7kFj4BvLeNfbLib_Jcya?dl=0&preview=Front-End+Test+Pr%C3%A1ctico.pdf)
 
