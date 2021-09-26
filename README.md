@@ -33,6 +33,7 @@ Frontend: el proyecto frontend correrá por en el puerto 3001, especificado en e
 cd frontend
 npm install
 npm start
+```
 
 ### Consideraciones
 * Usabilidad en la test ya que crearon aplicaciones rápidas, ágiles de usar de cara al usuario y reutilización de componentes CSS.
