@@ -9,17 +9,17 @@ desarrolladas en el proyecto frontend.
 
 ## Principales Tecnologías y Paquetes 🛠️
 Backend:
-- [NodeJS] (https://nodejs.org/es/) (v14.17.3)
+- [NodeJS](https://nodejs.org/es/) (v14.17.3)
 - [Express](https://expressjs.com/) (v4.17.1)
-- [Axios] (https://www.npmjs.com/package/axios) (0.21.4)
-- [Request] (https://www.npmjs.com/package/request) (1.0.1)
-- [Mercadolibre Api] (https://api.mercadolibre.com/items/#options)
+- [Axios](https://www.npmjs.com/package/axios) (0.21.4)
+- [Request](https://www.npmjs.com/package/request) (1.0.1)
+- [Mercadolibre Api](https://api.mercadolibre.com/items/#options)
 
 Frontend:
-- [ReactJS] (https://es.reactjs.org/) (v17.0.2)
-- [Redux] (https://react-redux.js.org/) (4.1.1)
-- [Sass] (https://www.npmjs.com/package/sass) (1.41.1)
-- [CSS MELI] (https://github.com/mercadolibre/css-style-guide)
+- [ReactJS](https://es.reactjs.org/) (v17.0.2)
+- [Redux](https://react-redux.js.org/) (4.1.1)
+- [Sass](https://www.npmjs.com/package/sass) (1.41.1)
+- [CSS MELI](https://github.com/mercadolibre/css-style-guide)
 
 ### Instalación y deploy
 Backend: el proyecto backend correrá por defecto en el puerto 3000 (http://localhost:3000/) 🚀.
@@ -43,9 +43,9 @@ frontend.
 
 ### Pendientes
 * Uso de redux-saga para un mejoramiento de manejo de estado de la aplicación.
-* Publicación del sitio utilizando firebase (https://firebase.google.com/).
+* Publicación del sitio utilizando [firebase](https://firebase.google.com/).
 * Creación de TDD para el mejoramiento de las pruebas unitarias y funcionales.
-* Uso de librería storybook (https://storybook.js.org/) para la contrucción de UI componentes
+* Uso de librería [storybook](https://storybook.js.org/) para la contrucción de UI componentes
 
 
 ## Autor ✒️
